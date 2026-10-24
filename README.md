@@ -17,7 +17,7 @@ Clarion garde vos contrats et vos documents dans un **coffre chiffré dans votre
 | [7. Mon compte](doc/wiki/07-compte.md) | mot de passe, clés de secours, alertes, suppression |
 | [8. Administration](doc/wiki/08-administration.md) | invitations, messagerie, annonces (administrateurs) |
 
-Une question précise ? Voir la [F.A.Q.](doc//faq/README.md).
+Une question précise ? Voir la [F.A.Q.](doc/faq/README.md).
 
 ## Trois choses à retenir
 
