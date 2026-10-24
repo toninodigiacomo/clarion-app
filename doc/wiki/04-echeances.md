@@ -20,8 +20,10 @@ Les contrats **sans reconduction tacite** (garantie, contrat à durée fixe) s'a
 
 | Contrat | Rappels |
 |---|---|
-| Avec reconduction tacite | 60, 30 et 7 jours avant la date limite de résiliation |
-| Sans reconduction tacite | 60 et 30 jours avant la fin, pour comparer ou renouveler |
+| Avec reconduction tacite | avant la date limite de résiliation |
+| Sans reconduction tacite | avant la fin, pour comparer ou renouveler |
+
+Par défaut : **60, 30 et 7 jours** avant. Vous pouvez choisir vos propres délais (de 1 à 5 rappels, entre 1 et 180 jours) dans **Compte → Alertes par e-mail → Délais des rappels**.
 
 Par défaut, l'e-mail est **générique** (« Une échéance approche dans Clarion ») : le détail n'apparaît qu'une fois connecté. Pour recevoir le nom du contrat dans l'e-mail, activez les **alertes détaillées** dans **Compte** (le nom est alors stocké en clair sur le serveur).
 

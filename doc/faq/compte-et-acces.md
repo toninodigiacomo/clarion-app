@@ -30,5 +30,8 @@ Le coffre se verrouille automatiquement en cas d'inactivité, pour protéger vos
 ### Puis-je changer d'adresse e-mail ?
 Pas encore : cette fonction est prévue dans une prochaine version.
 
+### Comment récupérer toutes mes données ?
+**Compte → Exporter mes données** : une archive ZIP avec vos fiches (JSON et CSV pour Excel), vos budgets et vos documents, déchiffrés dans votre navigateur. Personne d'autre ne peut produire cet export à votre place, puisque personne d'autre n'a vos clés.
+
 ### Comment supprimer mon compte ?
 **Compte → Supprimer mon compte**, avec votre mot de passe et votre e-mail. C'est immédiat et définitif.
