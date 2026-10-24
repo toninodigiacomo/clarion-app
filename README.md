@@ -2,7 +2,8 @@
 
 [Clarion](https://clarion.vektoriel.com) garde vos contrats et vos documents dans un **coffre chiffré dans votre navigateur**, surveille les délais de résiliation et vous aide à tenir votre budget. Le serveur ne voit jamais vos données en clair.
 
-> Clarion analyse, il ne conseille pas.
+> Clarion analyse.
+> Clarion ne conseille pas.
 
 ## Sommaire
 
