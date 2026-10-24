@@ -8,16 +8,16 @@ Clarion garde vos contrats et vos documents dans un **coffre chiffré dans votre
 
 | Page | Pour… |
 |---|---|
-| [1. Premiers pas](01-premiers-pas.md) | créer son compte et activer la double authentification |
-| [2. Connexion et sécurité](02-connexion-et-securite.md) | se connecter, déverrouiller, que faire en cas d'oubli |
-| [3. Le coffre](03-coffre.md) | collections, fiches contrat, documents |
-| [4. Échéances](04-echeances.md) | dates limites de résiliation et rappels |
-| [5. Budget](05-budget.md) | revenus, dépenses, solde, export Excel |
-| [6. Lettres](06-lettres.md) | lettres de résiliation et demandes d'offre en PDF |
-| [7. Mon compte](07-compte.md) | mot de passe, clés de secours, alertes, suppression |
-| [8. Administration](08-administration.md) | invitations, messagerie, annonces (administrateurs) |
+| [1. Premiers pas](doc/wiki/01-premiers-pas.md) | créer son compte et activer la double authentification |
+| [2. Connexion et sécurité](doc/wiki/02-connexion-et-securite.md) | se connecter, déverrouiller, que faire en cas d'oubli |
+| [3. Le coffre](doc/wiki/03-coffre.md) | collections, fiches contrat, documents |
+| [4. Échéances](doc/wiki/04-echeances.md) | dates limites de résiliation et rappels |
+| [5. Budget](doc/wiki/05-budget.md) | revenus, dépenses, solde, export Excel |
+| [6. Lettres](doc/wiki/06-lettres.md) | lettres de résiliation et demandes d'offre en PDF |
+| [7. Mon compte](doc/wiki/07-compte.md) | mot de passe, clés de secours, alertes, suppression |
+| [8. Administration](doc/wiki/08-administration.md) | invitations, messagerie, annonces (administrateurs) |
 
-Une question précise ? Voir la [F.A.Q.](../faq/README.md).
+Une question précise ? Voir la [F.A.Q.](doc//faq/README.md).
 
 ## Trois choses à retenir
 
