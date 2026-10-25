@@ -10,7 +10,7 @@ Pour chaque contrat **avec reconduction tacite**, Clarion calcule la date à laq
 
 Les pastilles indiquent l'urgence : verte (plus de 60 jours), orange (moins de 60), rouge (moins de 30).
 
-Le bouton **Lettre de résiliation** ouvre une lettre déjà remplie avec le fournisseur, le numéro de police et l'échéance (voir [6. Lettres](06-lettres.md)).
+Le bouton **Comparer** ouvre la grille de comparaison avec ce contrat comme référence (voir [10. Comparer](10-comparateur.md)). Le bouton **Lettre de résiliation** ouvre une lettre déjà remplie avec le fournisseur, le numéro de police et l'échéance (voir [6. Lettres](06-lettres.md)).
 
 ## Fins de contrat, sans résiliation
 

@@ -47,3 +47,18 @@ C'est un modèle courant ; elle doit être **signée à la main** et envoyée en
 
 ### Pourquoi deux signatures pour mon bail ?
 Pour le logement de la famille, le locataire marié ou en partenariat enregistré ne peut résilier qu'avec l'accord écrit de son conjoint (art. 266m CO).
+
+### L'assistant IA envoie-t-il mes polices à Clarion ?
+Non. Le texte part directement de votre navigateur vers le fournisseur que vous avez choisi (Google, Anthropic ou OpenAI), avec votre clé. Votre nom, votre adresse et vos numéros (AVS, IBAN, police, téléphone) sont remplacés par des marqueurs avant l'envoi ; vous pouvez voir le texte exact envoyé.
+
+### Faut-il payer pour l'assistant IA ?
+Cela dépend du fournisseur. Google propose une offre gratuite pour Gemini ; Anthropic et OpenAI facturent à l'usage. L'analyse d'une police coûte en général quelques centimes.
+
+### L'assistant n'arrive pas à lire mon PDF.
+C'est probablement un scan (une image sans texte). La lecture des scans n'est pas encore disponible : saisissez la fiche à la main.
+
+### Pourquoi l'offre la moins chère n'est-elle pas mise en avant ?
+Clarion analyse, il ne recommande pas. La grille montre ce que chaque offre couvre et à quel prix ; à vous de juger si l'économie vaut la couverture en moins.
+
+### Une couverture apparaît « absente » alors que l'offre l'inclut.
+Elle n'a pas été saisie ou lue dans cette offre : cliquez sur **+ incluse** dans la case, puis indiquez la somme et la franchise.
