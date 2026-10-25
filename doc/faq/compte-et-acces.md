@@ -28,7 +28,7 @@ Vos données ne peuvent pas être récupérées : personne ne détient de double
 Le coffre se verrouille automatiquement en cas d'inactivité, pour protéger vos données si vous laissez l'ordinateur ouvert. Recharger la page a le même effet.
 
 ### Puis-je changer d'adresse e-mail ?
-Pas encore : cette fonction est prévue dans une prochaine version.
+Oui : **Compte → Adresse e-mail**, avec votre mot de passe et un code de votre application. Un lien de confirmation part à la nouvelle adresse (valable 24 heures) et votre adresse actuelle est prévenue. Tant que vous n'avez pas cliqué sur le lien, rien ne change. Votre coffre, votre mot de passe et votre double authentification restent les mêmes.
 
 ### Comment récupérer toutes mes données ?
 **Compte → Exporter mes données** : une archive ZIP avec vos fiches (JSON et CSV pour Excel), vos budgets et vos documents, déchiffrés dans votre navigateur. Personne d'autre ne peut produire cet export à votre place, puisque personne d'autre n'a vos clés.

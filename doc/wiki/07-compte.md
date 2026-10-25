@@ -4,6 +4,7 @@ Menu **Compte**.
 
 | Rubrique | Ce que vous pouvez faire |
 |---|---|
+| Adresse e-mail | La changer avec votre mot de passe et un code de l'application. Un lien de confirmation part à la nouvelle adresse (24 heures) ; l'ancienne est prévenue. Le coffre n'est pas touché. |
 | Changer le mot de passe maître | Instantané : vos données ne sont pas rechiffrées, seule la clé qui les protège l'est. |
 | Clé de récupération | En générer une nouvelle (l'ancienne cesse de fonctionner). À faire si vous pensez qu'elle a été vue. |
 | Codes de secours | En générer 10 nouveaux, avec un code de votre application. Clarion vous y invite quand il en reste 3 ou moins. |
